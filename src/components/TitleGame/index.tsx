@@ -334,7 +334,7 @@ export function Game(game: gameProps) {
           to={`jogos/${game.game.link}/${game.game.id_jogo}`}
           style={{ textDecoration: "none" }}
         >
-          <Button>Concursos Anteriores</Button>
+          {/* <Button>Concursos Anteriores</Button> */}
         </Link>
         <span>Arrecadação Total {handleCurrency("rodape")}</span>
       </RodapeGame>
