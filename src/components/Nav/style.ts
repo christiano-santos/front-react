@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.nav`
-    width: 1120px;
+    width: 95%;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -9,7 +9,7 @@ export const Container = styled.nav`
     justify-content: space-between;
 `;
 
-export const Logo = styled.a`
+export const Logo = styled.span`
     font-family: 'Russo One', sans-serif;
     font-size: 2rem;
     color: #fff;

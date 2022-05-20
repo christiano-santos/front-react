@@ -10,7 +10,7 @@ export const Li = styled.li`
     margin-right: 0.50rem;
 `;
 
-export const Game = styled.a`
+export const Game = styled.span`
     text-decoration: none;
     color: #fff;
     font-size: 0.95rem;

@@ -2,7 +2,21 @@ import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
     :root {
-        --background: #f8f2f5;
+        --background: #FFF;
+        --mega: #209869;
+        --lotofacil: #930989;
+        --lotofacilcolor: #930089;
+        --quina: #260085;
+        --lotomania: #F78100;
+        --duplasena: #BF194E;
+        --duplasenacolor: #a61324;
+        --diadesorte:#cb852b;
+        --supersete: #a8cf45;
+        --supersetecolor: #4c546d;
+        --timemaniadezcolor: #049645;
+        --timemaniabgcolor: #FFF600;
+        --timemania: #00ff48;
+
     }
 
     * {
