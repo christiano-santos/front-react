@@ -1,6 +1,5 @@
 import {
   Acumulou,
-  Button,
   Concurso,
   ContaierGame,
   Container,
@@ -10,7 +9,6 @@ import {
   Ganhadores,
   NomeGame,
   RodapeGame,
-  Table,
 } from "./styled";
 import { Mega } from "../ResultGames/Mega";
 import { Quina } from "../ResultGames/Quina";
