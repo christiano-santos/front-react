@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import { Div, Span } from "../GeralStyle/style";
 import { Container } from "./styled";
 
