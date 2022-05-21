@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from "react";
 import { Table, Td, Th } from "../../TitleGame/styled";
 import { DivRes, Sorteio } from "../Dupla/style";
