@@ -2,7 +2,7 @@ import { Header } from "./components/Header";
 import { Main } from "./components/Main";
 import { LinkComponente } from "./components/LinkComponente";
 import { GlobalStyle } from "./styles/global";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 
 export function App() {
