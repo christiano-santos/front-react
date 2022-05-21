@@ -1,5 +1,5 @@
 import { Game, Li, Ul } from "./style";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export function Games() {
   return (
